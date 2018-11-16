@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+	<libro>
+		<titulo anyo="2008">Introduction to Linux</titulo>
+	<autores>
+		<autor>
+		    <nombre>Machtelt</nombre> 
+		    <apellido>vergas</apellido>	 
+		</autor>
+		<autor>
+		    <nombre>Garrels</nombre> 
+		    <apellido>martins</apellido>	 
+		</autor>
+	</autores>	
+		<editor>O'Reilly</editor>
+		<paginas>256</paginas>
+	</libro>
+	<libro>
+		<titulo anyo="1991">El lenguaje de programación C</titulo>
+		<autores>
+		
+		 <autor>
+		    <nombre>Kernighan</nombre> 
+		    <nombre>Ritchie</nombre>
+			 
+		</autor>
+		<autor>
+		    <nombre>juan</nombre> 
+		    <apellido>perico</apellido>	 
+		</autor>
+	</autores>	
+		
+		<editor>Prentice Hall</editor>
+		<paginas>294</paginas>
+	</libro>
+</biblioteca>
